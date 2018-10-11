@@ -1,4 +1,4 @@
-# <img src="../../assets/default/img/favicon.png" width="20px" height="20px"> Shaarli
+# <img src="https://raw.githubusercontent.com/shaarli/Shaarli/master/assets/default/img/favicon.png" width="20px" height="20px"> Shaarli
 
 The personal, minimalist, super-fast, database free, bookmarking service.
 
